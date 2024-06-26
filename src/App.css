@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.sobre{
+  background-color: rgb(137, 137, 247);
+  width: 500px;
+  margin-left: 450px;
+  padding: 40px;
+}
